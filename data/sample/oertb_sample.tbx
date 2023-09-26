@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="./TBX-IATE_DCA.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="./TBXcoreStructV03_TBX-IATE_integrated.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tbx type="TBX-IATE" style="dca" lang="mult">
+<tbxHeader>
+<fileDesc>
+<titleStmt>
+<title>Some Title statements go here</title>
+</titleStmt>
+</fileDesc>
+</tbxHeader>
+<text>
+<body/>
+<termEntry id="termEntry_1" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>acculturation</tig>
+</langSet>
+<langSet lang="afr">
+<tig>akkulturasie</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukunikezelana ngamasiko</tig>
+</langSet>
+<langSet lang="xho">
+<tig>utshintshiselwano ngenkcubeko</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kutselelana kwemasiko</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuthatha amasiko wakosobantu okubangelwa kuqongelana ngokwamasiko</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tlwaetšo ya setšo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>tlwaetso ya setso</tig>
+</langSet>
+<langSet lang="sot">
+<tig>tlwaetso ya meetlo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhufhaṱamvelele</tig>
+</langSet>
+<langSet lang="tso">
+<tig>mfuwontekelelwa</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_2" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>acephalous society</tig>
+</langSet>
+<langSet lang="afr">
+<tig>leierlose samelewing, asefale samelewing</tig>
+</langSet>
+<langSet lang="zul">
+<tig>umphakathi ongenanhloko ngokwezombusazwe</tig>
+</langSet>
+<langSet lang="xho">
+<tig>uluntu olungenayo inkokeli</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>ummango lote inhlokho</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>umphakathi onganabadosiphambili</tig>
+</langSet>
+<langSet lang="nso">
+<tig>setšhaba seo se se nago moetapele wa sepolotiki</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setšhaba tlhoka-moeteledipele</tig>
+</langSet>
+<langSet lang="sot">
+<tig>setjhaba se se nang moetapele</tig>
+</langSet>
+<langSet lang="ven">
+<tig>tshayamukoma</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xikalahosi</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_3" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>achieved status</tig>
+</langSet>
+<langSet lang="afr">
+<tig>verworwe status</tig>
+</langSet>
+<langSet lang="zul">
+<tig>isikhundla esisetshenzelwe</tig>
+</langSet>
+<langSet lang="xho">
+<tig>iwonga elifikelelweyo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>simobunjalo lesizuziwe setenhlalo</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ubujamo obuzuziweko</tig>
+</langSet>
+<langSet lang="nso">
+<tig>phihlelelo ya maemo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>seemo se se fitlheletsweng</tig>
+</langSet>
+<langSet lang="sot">
+<tig>maemo a fihlelletsweng</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhuimo</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xiyimo lexi fikeleriweke</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_4" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>adult socialisation</tig>
+</langSet>
+<langSet lang="afr">
+<tig>volwasse sosialisering</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukulungiselelwa impilo yobudala</tig>
+</langSet>
+<langSet lang="xho">
+<tig>uqhelaniso lobuntu lwabantu abadala</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kukhulisa umuntfu lomdzala</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ikambiso yokulungiselela ubudala</tig>
+</langSet>
+<langSet lang="nso">
+<tig>thuto ya go tlwaetša go phela le batho</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>thuto ya bogolo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>thuto ya botho ya boholo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>ngudiswakhutshilele</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xiseveseve</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_5" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>affinal kin</tig>
+</langSet>
+<langSet lang="afr">
+<tig>aangetroude familie</tig>
+</langSet>
+<langSet lang="zul">
+<tig>izihlobo ngokomshado</tig>
+</langSet>
+<langSet lang="xho">
+<tig>umzalwane ngokomtshato</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>tihlobo ngekwemendvo, umshado</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuhlobana ngokuthathana</tig>
+</langSet>
+<langSet lang="nso">
+<tig>balapa ka lenyalo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>balosika ka nyalo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>leloko la madi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>mashaka nga nzeo</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vamaseve</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_6" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>affluent society</tig>
+</langSet>
+<langSet lang="afr">
+<tig>welvarende gemeenskap</tig>
+</langSet>
+<langSet lang="zul">
+<tig>umphakathi onothile waseMelika</tig>
+</langSet>
+<langSet lang="xho">
+<tig>uluntu olunobutyebi</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>ummango lonjingile</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>umphakathi onjingileko</tig>
+</langSet>
+<langSet lang="nso">
+<tig>setšhaba se se atlegilego</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setšhaba se se humileng</tig>
+</langSet>
+<langSet lang="sot">
+<tig>setjhaba se atlehileng</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhathu vha no ḓikona</tig>
+</langSet>
+<langSet lang="tso">
+<tig>swixurhana</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_7" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>age grade</tig>
+</langSet>
+<langSet lang="afr">
+<tig>leeftydsgroep</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ontanga</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ihlelo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bontsanga bebulili bunye</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>igreyidi yobudala</tig>
+</langSet>
+<langSet lang="nso">
+<tig>sehlopha sa mphato o tee</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setlhopha go ya ka dingwaga</tig>
+</langSet>
+<langSet lang="sot">
+<tig>sehlopa</tig>
+</langSet>
+<langSet lang="ven">
+<tig>tshigwadathanga</tig>
+</langSet>
+<langSet lang="tso">
+<tig>tintangha</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_8" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>age set</tig>
+</langSet>
+<langSet lang="afr">
+<tig>ouderdomsgroep</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ibutho elilawulayo</tig>
+</langSet>
+<langSet lang="xho">
+<tig>iseti yobudala</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>licembu labontsanga</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>isiqhema esihlanganisa abomma nabobaba</tig>
+</langSet>
+<langSet lang="nso">
+<tig>sete ya mengwaga</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>sete ya dingwaga</tig>
+</langSet>
+<langSet lang="sot">
+<tig>sete ya dilemo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>sethethanga</tig>
+</langSet>
+<langSet lang="tso">
+<tig>tintangha</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_9" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>agency</tig>
+</langSet>
+<langSet lang="afr">
+<tig>bemiddeling</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukusebenzela abanye</tig>
+</langSet>
+<langSet lang="xho">
+<tig>uncedo, ishishini lomenzeli</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>i-ejensi</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>umenzeli</tig>
+</langSet>
+<langSet lang="nso">
+<tig>boemedi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>boemedi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>boemedi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhunzhakanḓila</tig>
+</langSet>
+<langSet lang="tso">
+<tig>muyimeri</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_10" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>agrarian society</tig>
+</langSet>
+<langSet lang="afr">
+<tig>agrariese samelewing</tig>
+</langSet>
+<langSet lang="zul">
+<tig>umphakathi olima ngegeja</tig>
+</langSet>
+<langSet lang="xho">
+<tig>umbutho onxulumene nomhlaba</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>ummango lolimako</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>umphakathi wezelimo</tig>
+</langSet>
+<langSet lang="nso">
+<tig>setšhaba sa bolemi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setšhaba sa temo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>setjhaba sa bolemi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>tshitshavha tsha ndimo</tig>
+</langSet>
+<langSet lang="tso">
+<tig>varimi</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_11" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>alienation</tig>
+</langSet>
+<langSet lang="afr">
+<tig>vervreemding</tig>
+</langSet>
+<langSet lang="zul">
+<tig>i-alineshini</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ukuphephetha</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kwehlukanisa</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuhlukanisa</tig>
+</langSet>
+<langSet lang="nso">
+<tig>karoganyo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>kgaoganyo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>karohanyo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>bandashaya</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xikhiri</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_12" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>ambilineal descent</tig>
+</langSet>
+<langSet lang="afr">
+<tig>ambilineêre afkoms</tig>
+</langSet>
+<langSet lang="zul">
+<tig>isizukulwana samadodana namadodakazi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>inzala yemilibo emibini</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kuhlobana kwentalelwane yekhabobabe neyekhabomake</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukulamana ngokweenini</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tatelano ka mahlakoreng a mabedi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>botso jwa matlhakore a mme kgotsa ntate</tig>
+</langSet>
+<langSet lang="sot">
+<tig>tatelano ka mahlakoreng ohle</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhushakavhuṱhanganeli</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vakaxin'wana</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_13" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>ambilocality</tig>
+</langSet>
+<langSet lang="afr">
+<tig>ambilokaliteit</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukuzikhethela kwabashadikazi abazali abazohlala nabo</tig>
+</langSet>
+<langSet lang="xho">
+<tig>iindawo ezimbini</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>ebukhweni</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ndawo ehlala abatjhadeneko</tig>
+</langSet>
+<langSet lang="nso">
+<tig>bodulo bja banyalani</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>bonno jwa banyalani jo bo gaufi le balosika</tig>
+</langSet>
+<langSet lang="sot">
+<tig>bodulo haufi le lelapa la e mong</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhuhadzi, muḓivhuhadzi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>muti</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_14" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>ancestor worship</tig>
+</langSet>
+<langSet lang="afr">
+<tig>voorouerverering</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukuhlabela amadlozi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>unqulo lwezinyanya</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kukhonta emadloti</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukulotjha abezimu</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tumelo mo go badimo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>kobamelo ya badimo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>ho rapela badimo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhurereli</tig>
+</langSet>
+<langSet lang="tso">
+<tig>gandzelo</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_15" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>animism</tig>
+</langSet>
+<langSet lang="afr">
+<tig>animisme</tig>
+</langSet>
+<langSet lang="zul">
+<tig>i-enimizimu</tig>
+</langSet>
+<langSet lang="xho">
+<tig>unqulo lwezilwanyana</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bulwane</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>i-animizimu</tig>
+</langSet>
+<langSet lang="nso">
+<tig>kabelo ya bophelo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>tumelo ya gore dilo tsotlhe di na le mowa</tig>
+</langSet>
+<langSet lang="sot">
+<tig>ho fa ntho, ntho e phelang, motho ya ileng sebopeho sa motho</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhutendavhadzimu, vhutendavhamatongoni</tig>
+</langSet>
+<langSet lang="tso">
+<tig>swikwembu</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_16" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>Applied Anthropology</tig>
+</langSet>
+<langSet lang="afr">
+<tig>Toegepaste Antropologie, Toegepaste Volkekunde</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ezokusetshenziswa kobungcweti be-antropholoji</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ulwazi olusebenzayo lomntu njengesidalwa</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>sifundvo mayelana netenhlalo yebantfu lesetjentiswako</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuphrakthisa indabuko namasiko wabantu</tig>
+</langSet>
+<langSet lang="nso">
+<tig>antropholotši ya go šoma</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>tiriso ya tiori ya thuto ya batho le ditso</tig>
+</langSet>
+<langSet lang="sot">
+<tig>Thuto e Sebedisehang ya Meetlo le Setho</tig>
+</langSet>
+<langSet lang="ven">
+<tig>Ngudamveleletshumiswa</tig>
+</langSet>
+<langSet lang="tso">
+<tig>ntivovuxaka bya vanhu ni vakokwana wa kona hi ku endla kunene</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_17" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>assimilation</tig>
+</langSet>
+<langSet lang="afr">
+<tig>assimilasie</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukuguquka kwabantu abayingcosana bamukele amasiko eningi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ufaniso</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kumitwa</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukufana</tig>
+</langSet>
+<langSet lang="nso">
+<tig>kakaretšo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>tshwaetsano</tig>
+</langSet>
+<langSet lang="sot">
+<tig>phetoho ya botho e bakwang ke bojaki</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhumilwa</tig>
+</langSet>
+<langSet lang="tso">
+<tig>ku dyiwa</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_18" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>automation</tig>
+</langSet>
+<langSet lang="afr">
+<tig>outomatisasie</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukusetshenziswa kwemishini ekukhiqizeni</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ukusebenzisa oomatshini abazihambelayo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kuntjintja</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>indlela yokwenza ngaphandle kwabantu</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tšhomišo ya metšhene</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>tiriso ya metšhini</tig>
+</langSet>
+<langSet lang="sot">
+<tig>tshebediso ya metjhini</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhushumisamitshini</tig>
+</langSet>
+<langSet lang="tso">
+<tig>ku tirhisa michini</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_19" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>avunculocal residence</tig>
+</langSet>
+<langSet lang="afr">
+<tig>woning van oom aan moederskant</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukuhlala kwabashadikazi noninalume wendoda</tig>
+</langSet>
+<langSet lang="xho">
+<tig>indawo yokuhlala kwamalume (MB)</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>likhaya lamakoti nemkhwenyana</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuhlala nimndeni nalabo abaqeda ukutjhada</tig>
+</langSet>
+<langSet lang="nso">
+<tig>madulo a banyalani a kgauswi le ga malome</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>bonno jo bo gaufi le malomaagwe monna</tig>
+</langSet>
+<langSet lang="sot">
+<tig>bodulo lapeng la, kapa haufi le, lapa la malome wa monna</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhuhadzi muḓini wa malume</tig>
+</langSet>
+<langSet lang="tso">
+<tig>muti</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_20" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>balanced reciprocity</tig>
+</langSet>
+<langSet lang="afr">
+<tig>gebalanseerde wederkerigheid</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukubuyiselana isipho okulinganisiweyo</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ukwenzelana ngokufanayo okulinganayo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bubili lobusimeme</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuphana izipho ngokulinganako</tig>
+</langSet>
+<langSet lang="nso">
+<tig>neelano ya dimpho</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>neelano ya dimpho ka tekatekano</tig>
+</langSet>
+<langSet lang="sot">
+<tig>ho fana ho lekalekanang</tig>
+</langSet>
+<langSet lang="ven">
+<tig>mphondingani</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xandlafambaxandlavuya</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_21" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>band</tig>
+</langSet>
+<langSet lang="afr">
+<tig>groep</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ibhendi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>iqela</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>ibhendi</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>iyunidi eyodwa</tig>
+</langSet>
+<langSet lang="nso">
+<tig>sehlopha sa basenyi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setlhopha sa batsomi le babatli ba dijo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>sehlopha sa basedi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhaṱalazwiḽiwa, vhadzimba</tig>
+</langSet>
+<langSet lang="tso">
+<tig>ntlawa</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_22" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>banditry</tig>
+</langSet>
+<langSet lang="afr">
+<tig>struikrowery</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ububhendi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ubugebenga</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bugebengu</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>iselelesi</tig>
+</langSet>
+<langSet lang="nso">
+<tig>borabela</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>bosenyi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>borabela</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhaṱanguli, mavemu, vhuravhele</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vunsulavoya</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_23" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bifurcate (collateral kinship terminology)</tig>
+</langSet>
+<langSet lang="afr">
+<tig>gevurkte (sylinie-) bloedverwantterminologie</tig>
+</langSet>
+<langSet lang="zul">
+<tig>amathemu obundeni</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ukwahlula kube ngamasebe amabini (isigama sokuzalana somnombo onamasebe amabini)</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>emagama etigaba tekuhlobana ngekwentalelwano</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>itheminoloji yokulamana komhlobo owodwa weenhlobo</tig>
+</langSet>
+<langSet lang="nso">
+<tig>mareo a boloko</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>mareo a lotso</tig>
+</langSet>
+<langSet lang="sot">
+<tig>mareo a leloko a mahlakore ohle</tig>
+</langSet>
+<langSet lang="ven">
+<tig>bifukhathe</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xixaka</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_24" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>big man</tig>
+</langSet>
+<langSet lang="afr">
+<tig>grootman</tig>
+</langSet>
+<langSet lang="zul">
+<tig>indoda 'enkulu'</tig>
+</langSet>
+<langSet lang="xho">
+<tig>indoda enkulu</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>indvodza lenkhulu</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>umuntu omkhulu ophetheko esitjhabeni</tig>
+</langSet>
+<langSet lang="nso">
+<tig>monna yo mogolo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>monna yo mogolo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>mampodi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>mufaeli</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xidyavukosi</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_25" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bilateral descent</tig>
+</langSet>
+<langSet lang="afr">
+<tig>tweesydige afkoms, bilaterale afkoms</tig>
+</langSet>
+<langSet lang="zul">
+<tig>isizukulwana ezinxambili</tig>
+</langSet>
+<langSet lang="xho">
+<tig>isizukulwana kumacala amabini</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>buhlobo lobumkhakhambili</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuqakatheka kwamahlangothi womabili lakomma nelakobaba</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tatelano ka mahlakoreng a mabedi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>botso jwa matlhakorepedi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>tatelano ka mahlakoreng ka bobedi, ka tswalo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>shakahuvhili</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xikalatlhelo</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_26" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bilateral kinship calculation</tig>
+</langSet>
+<langSet lang="afr">
+<tig>bilaterale verwantskapberekening</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukubala izihlobo ngokobulili</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ubalo lokuzalala kumacala amabini</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kubalwa kwebuhlobo lobumkhakhambili</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukubala ukulingana kobuhlobo</tig>
+</langSet>
+<langSet lang="nso">
+<tig>palo ya leloko, lešika</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>palelo ya lotso la matlhakorepedi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>kananelo ya leloko mahlakoreng ka bobedi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>khovhavhushaka</tig>
+</langSet>
+<langSet lang="tso">
+<tig>xaka ra vele na ngati</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_27" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bilocal residence</tig>
+</langSet>
+<langSet lang="afr">
+<tig>bilokale woning</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukuhlala kwabashadikazi nezihlobo zendoda nezikankosikazi ngokulandelana</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ikhaya kwiindawo ezimbini</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>ebukhweni</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ibhayilokhali residensi</tig>
+</langSet>
+<langSet lang="nso">
+<tig>madulo a go fetolana</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>bonno jwa thefosanyo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>bodulo dibakeng tse pedi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>hayakavhili</tig>
+</langSet>
+<langSet lang="tso">
+<tig>ku rhurharhurha</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_28" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>biological determinists</tig>
+</langSet>
+<langSet lang="afr">
+<tig>biologiese deterministe</tig>
+</langSet>
+<langSet lang="zul">
+<tig>abakholelwa ekuthini ukuziphatha komuntu kuya ngokusebenza komzimba wakhe</tig>
+</langSet>
+<langSet lang="xho">
+<tig>izimiseli zebhayoloji</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bocepheshe betelufuto</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ibhayolojikhali deteministhi</tig>
+</langSet>
+<langSet lang="nso">
+<tig>balaetši ba tlholego go ya ka tlhago</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>batlhotlhomisi ba baeoloji</tig>
+</langSet>
+<langSet lang="sot">
+<tig>ba dumelang ho taolo ya tlhaho</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhatikedzi vha mbebondangi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vuxaka bya ngati</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_29" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>biological reductionism</tig>
+</langSet>
+<langSet lang="afr">
+<tig>biologiese reduksionisme</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukuziphatha komuntu ngokokusebenza komzimba</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ukuncitshiswa ngokwebhayoloji</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bocwepheshe bekutiphatsa kwebantfu</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ibhayolojikhali redaktjhinizimu</tig>
+</langSet>
+<langSet lang="nso">
+<tig>phokotšo ya tlholego go ya ka tlhago</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>phokotsotharaano ya baeoloji</tig>
+</langSet>
+<langSet lang="sot">
+<tig>ho dumela hore tlhaho e laola tsohle</tig>
+</langSet>
+<langSet lang="ven">
+<tig>mbebondangi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>nxopaxopo wa swihumelelo swo karhi</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_30" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bourgeoisie</tig>
+</langSet>
+<langSet lang="afr">
+<tig>middelstand, burgerstand, bourgeoisie</tig>
+</langSet>
+<langSet lang="zul">
+<tig>abaninizindlela zokukhiqiza</tig>
+</langSet>
+<langSet lang="xho">
+<tig>umntu onamawonga nobunewunewu</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>umkhakha losemkhatsini</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>abantu abasezingeni eliphakathi lepilo</tig>
+</langSet>
+<langSet lang="nso">
+<tig>bourgeoisie, bahumi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setlhopha sa loago se se humileng ka ntlha ya ntshokuno</tig>
+</langSet>
+<langSet lang="sot">
+<tig>beng ba disebediswa tsa tlhahiso</tig>
+</langSet>
+<langSet lang="ven">
+<tig>zwiṱunḓulume</tig>
+</langSet>
+<langSet lang="tso">
+<tig>swixurhana</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_31" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bride price</tig>
+</langSet>
+<langSet lang="afr">
+<tig>bruidsprys,  bruidskat, lobola</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ilobolo</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ilobola, intlawulo yomtshakazi</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>emalobolo</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ilobolo likamakoti</tig>
+</langSet>
+<langSet lang="nso">
+<tig>lobola, tšhelete ya bogadi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>bogadi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>bohadi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>dzekiso, lumalo</tig>
+</langSet>
+<langSet lang="tso">
+<tig>cuma</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_32" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bride service</tig>
+</langSet>
+<langSet lang="afr">
+<tig>bruidsdiens</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukusebenzela umakoti</tig>
+</langSet>
+<langSet lang="xho">
+<tig>inkonzo yomtshakazi</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>emalobolo</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>umsebenzi kamakoti</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tirelo ya monyadi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>tirelo ya monyadiwa</tig>
+</langSet>
+<langSet lang="sot">
+<tig>tshebeletso ya bohadi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>tshumelavhuhwe</tig>
+</langSet>
+<langSet lang="tso">
+<tig>ndzovolo, ku ba tihomu</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_33" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bride wealth</tig>
+</langSet>
+<langSet lang="afr">
+<tig>bruidskat, lobola</tig>
+</langSet>
+<langSet lang="zul">
+<tig>umnotho kamakoti</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ubutyebi bomtshakazi</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>ingcebo yamakoti, umhlambiso</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>umnotho kamakoti</tig>
+</langSet>
+<langSet lang="nso">
+<tig>mahumo a monyadi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>khumo ya monyadi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>matshidiso a ba bohweng</tig>
+</langSet>
+<langSet lang="ven">
+<tig>ndifhelavhomakhulu</tig>
+</langSet>
+<langSet lang="tso">
+<tig>midzivuriso</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_34" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>bureaucracy</tig>
+</langSet>
+<langSet lang="afr">
+<tig>burokrasie</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ibhyurokhrasi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ulawulo lwabantu abaqeshiweyo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>umbuso lophetfwe tisebenti tahulumende</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ibhiriyokhresi, umbuso ophethwe ziinsebenzi zikarhulumende</tig>
+</langSet>
+<langSet lang="nso">
+<tig>birokrasi</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>birokerasi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>birokerasi (mokgwa wa tlhahlamano ya mesebetsi)</tig>
+</langSet>
+<langSet lang="ven">
+<tig>birokirasi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>matirhelo hi ku landzelerisa nxanxamelo wa matshamelo ya vurhangeri</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_35" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>capitalism</tig>
+</langSet>
+<langSet lang="afr">
+<tig>kapitalisme</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ubungxowankulu</tig>
+</langSet>
+<langSet lang="xho">
+<tig>inkqubo yelizwe elawulwa yimali</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kuba nemali lenyenti yekucala ibhizinisi</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ihlelo lomnotho onzinze ezandleni zabantu bangeqadi</tig>
+</langSet>
+<langSet lang="nso">
+<tig>bokapitale</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>bokapitalise</tig>
+</langSet>
+<langSet lang="sot">
+<tig>bokapitale</tig>
+</langSet>
+<langSet lang="ven">
+<tig>khephithaḽizimu</tig>
+</langSet>
+<langSet lang="tso">
+<tig>mphamelo wa vukorhokeri eka vaaki hi ndlela yo bindzurisa</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_36" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>cargo cults</tig>
+</langSet>
+<langSet lang="afr">
+<tig>vragkultusse</tig>
+</langSet>
+<langSet lang="zul">
+<tig>imikhankaso yemilingo  yokulingisa izindlela zaseYurophu kwezomnotho</tig>
+</langSet>
+<langSet lang="xho">
+<tig>iinkqubo zonqulo zomthwalo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>tinkholo te-cargo</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>isiqhema esihlangene ngekolo ethileko</tig>
+</langSet>
+<langSet lang="nso">
+<tig>mokgwa wa tumelo ya dithoto</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>mekgatlho e e dumelang mo khumong ya dithoto</tig>
+</langSet>
+<langSet lang="sot">
+<tig>mekgwa ya bodumedi ya ho ithuisa</tig>
+</langSet>
+<langSet lang="ven">
+<tig>lupfumomanditi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>mphahlo wa swikwembu</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_37" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>Cartesian</tig>
+</langSet>
+<langSet lang="afr">
+<tig>Cartesies</tig>
+</langSet>
+<langSet lang="zul">
+<tig>okuthathelwe emibonweni yesazi sefilosofi, uDescartes</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ifilosofi yenzululwazi yendalo (i-cartesian)</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>i-Cartesian</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ihlathululo neembonelo zemitjho</tig>
+</langSet>
+<langSet lang="nso">
+<tig>Cartesian</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>Khathešiene</tig>
+</langSet>
+<langSet lang="sot">
+<tig>Mokgwa wa Carte</tig>
+</langSet>
+<langSet lang="ven">
+<tig>Tshikhatheshia</tig>
+</langSet>
+<langSet lang="tso">
+<tig>mulandzeri wa Descartes</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_38" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>caste system</tig>
+</langSet>
+<langSet lang="afr">
+<tig>kastestelsel</tig>
+</langSet>
+<langSet lang="zul">
+<tig>uhlelo lwekhasti</tig>
+</langSet>
+<langSet lang="xho">
+<tig>inkqubo yodidi lwabantu</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>luhlobo lwekutalwa ekhatsi esitukulwaneni sakubo</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ikambiso yokuhlukanisa abanjingileko nabatlhagako</tig>
+</langSet>
+<langSet lang="nso">
+<tig>mokgwa wa kabelo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>tsamaiso ya go farologanya ka tsalo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>mokgwa wa ho kgetholla ho ya ka tswalo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>sisiṱeme ya khasithi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>muhlawuriwa/mukhethwa</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_39" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>cattle complex</tig>
+</langSet>
+<langSet lang="afr">
+<tig>beeskompleks</tig>
+</langSet>
+<langSet lang="zul">
+<tig>isikhundla nomnotho ngokwezinkomo umuntu anazo</tig>
+</langSet>
+<langSet lang="xho">
+<tig>indawo yemfuyo yeenkomo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bunhlonhla</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukwaba ipahla ngokuyabelana</tig>
+</langSet>
+<langSet lang="nso">
+<tig>leruo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>thuo ya dikgomo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>mokgwa wa dikgomo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>maitele a lupfumothakha</tig>
+</langSet>
+<langSet lang="tso">
+<tig>rifuwo</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_40" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>chiefdom</tig>
+</langSet>
+<langSet lang="afr">
+<tig>kapteinskap, hoofmanskap</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ubukhosi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ubukhosi</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>bukhosi besikhulu</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ubukhosi</tig>
+</langSet>
+<langSet lang="nso">
+<tig>bogoši, borena</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>bogosi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>borena</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhuhosi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vuhosi</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_41" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>clan</tig>
+</langSet>
+<langSet lang="afr">
+<tig>stamgroep</tig>
+</langSet>
+<langSet lang="zul">
+<tig>isizwe senkosi eyodwa</tig>
+</langSet>
+<langSet lang="xho">
+<tig>isiduko</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>lusendvo</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ikoro</tig>
+</langSet>
+<langSet lang="nso">
+<tig>mohlobo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>losika</tig>
+</langSet>
+<langSet lang="sot">
+<tig>leloko</tig>
+</langSet>
+<langSet lang="ven">
+<tig>lusese, lushaka</tig>
+</langSet>
+<langSet lang="tso">
+<tig>nyimba</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_42" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>class</tig>
+</langSet>
+<langSet lang="afr">
+<tig>klas</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ikilasi labantu</tig>
+</langSet>
+<langSet lang="xho">
+<tig>udidi</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>licembu</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>amalunga wesiqhema somphakathi</tig>
+</langSet>
+<langSet lang="nso">
+<tig>maemo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setlhopha (go ya ka maemo a loago)</tig>
+</langSet>
+<langSet lang="sot">
+<tig>maemo a batho</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhuimo, tshiimo</tig>
+</langSet>
+<langSet lang="tso">
+<tig>ntlawa</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_43" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>class consciousness</tig>
+</langSet>
+<langSet lang="afr">
+<tig>klassebewustheid</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukwazi ngekilasi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ukuthanda umgangatho</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kwatisa licembu</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ikolelo yabantu</tig>
+</langSet>
+<langSet lang="nso">
+<tig>temogo ya maemo</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>temogo ya maemo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>tsotello ya maemo</tig>
+</langSet>
+<langSet lang="ven">
+<tig>tshiṱalula nga vhuimo, tshiimo</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vutitwi bya ntlawa</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_44" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>classificatory kinship terms</tig>
+</langSet>
+<langSet lang="afr">
+<tig>geordende verwantskapterme</tig>
+</langSet>
+<langSet lang="zul">
+<tig>amathemu okuhlela ezobundeni ngokwamakilasi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>amagama okuhlela ngokobuzalwane</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kuhlelenjiswa kwemagama ebuhlobo</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ukuhlelwa kwamathemu wobuhlobo</tig>
+</langSet>
+<langSet lang="nso">
+<tig>mareo a go aroganya meloko</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>mareo a karologanyo ya losika</tig>
+</langSet>
+<langSet lang="sot">
+<tig>mareo a ho hlophisa kamano lelapeng</tig>
+</langSet>
+<langSet lang="ven">
+<tig>mathemo a vhushakavhuangaredzi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>mutswala</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_45" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>cohort (stat.)</tig>
+</langSet>
+<langSet lang="afr">
+<tig>kohort (stat.)</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ikhohothi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>iqela labantu abanento ebadibanisayo</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>licembu lebantfu labatelwe eminyakeni lengu-5</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>isiqhema</tig>
+</langSet>
+<langSet lang="nso">
+<tig>dithaka</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>setlhopha sa balekane ba ba welang mo pakeng ya dingwagatlhano</tig>
+</langSet>
+<langSet lang="sot">
+<tig>balekane</tig>
+</langSet>
+<langSet lang="ven">
+<tig>murole, thanga</tig>
+</langSet>
+<langSet lang="tso">
+<tig>tintangha</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_46" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>commodification</tig>
+</langSet>
+<langSet lang="afr">
+<tig>kommodifiëring</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ukuguqulela kokuthengiswayo</tig>
+</langSet>
+<langSet lang="xho">
+<tig>ukulungisa kunye</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kwenta umkhicito, imphahla yekutsengwa</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>okuligugu</tig>
+</langSet>
+<langSet lang="nso">
+<tig>kgwebofatša</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>kgwebofatso</tig>
+</langSet>
+<langSet lang="sot">
+<tig>ho fetola ntho hore e be thepa e nang le boleng</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhubindudzi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>swixavisiwa swa nkoka</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_47" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>communitas</tig>
+</langSet>
+<langSet lang="afr">
+<tig>gemeenskapsgees</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ikhomyunithasi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>umoya wobudlelwane</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>kuba moyamunye kwemmango</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>ummoya wokubumbana emphakathini</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tšhomišanommogo ya setšhaba</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>mowa wa bommogo</tig>
+</langSet>
+<langSet lang="sot">
+<tig>moya wa kopano</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhuthihi</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vunyandzayin'we</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_48" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>conjugal relationship</tig>
+</langSet>
+<langSet lang="afr">
+<tig>huweliksverhouding</tig>
+</langSet>
+<langSet lang="zul">
+<tig>ubudlelwane babaganeneyo</tig>
+</langSet>
+<langSet lang="xho">
+<tig>unxulumano lomtshato</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>budlelwane balabashadene</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>itjhebiswano ngokuthathana</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tswalano magareng ga bagatša</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>kamano ya banyalani</tig>
+</langSet>
+<langSet lang="sot">
+<tig>kamano ya ba nyalaneng</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhudzekani</tig>
+</langSet>
+<langSet lang="tso">
+<tig>varhandzani</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_49" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>consanguineal kin (consanguinity, consanguineous)</tig>
+</langSet>
+<langSet lang="afr">
+<tig>bloedverwante</tig>
+</langSet>
+<langSet lang="zul">
+<tig>izihlobo zegazi</tig>
+</langSet>
+<langSet lang="xho">
+<tig>izalamane ngokwegazi (ngokwegazi, ngegazi)</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>sihlobo sengati</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>isihlobo seengazi</tig>
+</langSet>
+<langSet lang="nso">
+<tig>tswalano ka madi, pelego</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>kamano ya madi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>kamano ya madi</tig>
+</langSet>
+<langSet lang="ven">
+<tig>vhushaka nga malofha</tig>
+</langSet>
+<langSet lang="tso">
+<tig>maxaka ya ngati</tig>
+</langSet>
+</termEntry>
+<termEntry id="termEntry_50" source="Open Educational Resource Term Bank - https://www.up.ac.za/african-languages/news/post_2728581-open-educational-resource-term-bank">
+<langSet lang="eng">
+<tig>contract societies</tig>
+</langSet>
+<langSet lang="afr">
+<tig>kontrakgemeenskappe</tig>
+</langSet>
+<langSet lang="zul">
+<tig>imiphakathi yezinkontileka</tig>
+</langSet>
+<langSet lang="xho">
+<tig>imibutho yekontraki</tig>
+</langSet>
+<langSet lang="ssw">
+<tig>imimango yekontileka</tig>
+</langSet>
+<langSet lang="nbl">
+<tig>indabuko yamasiko emindenini</tig>
+</langSet>
+<langSet lang="nso">
+<tig>ditšhaba tša go kgolwa go dikontraka</tig>
+</langSet>
+<langSet lang="tsn">
+<tig>ditšhaba tse di nang le tumelano ya boikemedi</tig>
+</langSet>
+<langSet lang="sot">
+<tig>ditjhaba se tshepang ditumellano</tig>
+</langSet>
+<langSet lang="ven">
+<tig>zwitshavha zwa muimawoga</tig>
+</langSet>
+<langSet lang="tso">
+<tig>vaaki lava hanyaka ku ya hi ntwanano wo karhi</tig>
+</langSet>
+</termEntry>
+</text>
+</tbx>
