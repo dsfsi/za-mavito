@@ -18,8 +18,11 @@ A short description of the project.
 
 ### Included Terminlogy Databases
 
-#### OERTB
-
+| Database | Description | Documentation | CSV | JSON | TBX |
+|----------|-------------|---------------|-----|------|-----|
+|OERTB     |Open Resource Term Bank (OERTB) project is to support the collaborative development and dissemination of terminological resources, and thereby promoting the use of African languages in teaching and learning at higher education institutions. |     TBD          |   [data/sample/oertb_sample.csv](https://github.com/dsfsi/za-terminology/blob/master/data/sample/oertb_sample.csv), view on [datasette](https://lite.datasette.io/?csv=https://github.com/dsfsi/za-terminology/blob/master/data/sample/oertb_sample.csv)  |   [data/sample/oertb_sample.json](https://github.com/dsfsi/za-terminology/blob/master/data/sample/oertb_sample.json), view on [datasette](https://lite.datasette.io/?json=https://github.com/dsfsi/za-terminology/blob/master/data/sample/oertb_sample.json)    |  [data/sample/oertb_sample.tbx](https://github.com/dsfsi/za-terminology/blob/master/data/sample/oertb_sample.tbx)   |
+|          |             |               |     |      |     |
+|          |             |               |     |      |     |
 
 
 
