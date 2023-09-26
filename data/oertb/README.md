@@ -7,3 +7,7 @@ The purpose of the Open Resource Term Bank (OERTB) project is to support the col
 
 * Author(s) - Original OERTB: Adelia Carstens, Elsabé Taljard, Mbulungeni Madiba
 * Author(s) - Original OERTB + _Open Database_: Adelia Carstens, Elsabé Taljard, Mbulungeni Madiba,Vukosi Marivate, Fiskani Banda, Richard Lastrucci, Mohlatlego Nakeng, Kayode Olalaye, Thapelo Sindane
+
+# LICENSE for Data
+
+The files on [https://github.com/dsfsi/za-terminology/](https://github.com/dsfsi/za-terminology/) are under [CC-BY-4.0](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/LICENSE) and should acknowledge the Original OERTB + _Open Database_ authors list.
