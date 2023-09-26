@@ -31,8 +31,6 @@ _This section provides the necessary information for a user to be able to run th
 ### Usage 
 
 
-```
-
 ## Authors 
 -----------
 
