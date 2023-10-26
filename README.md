@@ -1,7 +1,7 @@
 DSFSI South African Terminlogy Lists and Lexicon Project
 ==============================
 
-_This documentation is aimed to help provide information that explains what a project is about._
+Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse)
 
 
 ## Table of contents 
