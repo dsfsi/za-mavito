@@ -10,4 +10,4 @@ The purpose of the Open Resource Term Bank (OERTB) project is to support the col
 
 # LICENSE for Data
 
-The files on [https://github.com/dsfsi/za-terminology/](https://github.com/dsfsi/za-terminology/) are under [CC-BY-4.0](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/LICENSE) and should acknowledge the Original OERTB + _Open Database_ authors list.
+The files on [https://github.com/dsfsi/za-mavito/](https://github.com/dsfsi/za-mavito/) are under [CC-BY-4.0](https://github.com/dsfsi/za-mavito/blob/master/data/oertb/LICENSE) and should acknowledge the Original OERTB + _Open Database_ authors list.
