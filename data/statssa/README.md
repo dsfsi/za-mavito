@@ -5,9 +5,8 @@ The Multilingual Statistical Terminology Project by Statistics South Africa (Sta
 
 # Author(s)
 
-* Author(s) - Original Multilingual Statistical Terminology: Statistics South Africa,
-* Author(s) - Original Multilingual Statistical Terminology + _Open Database_: Statistics South Africa, Vukosi Marivate, Fiskani Banda, Richard Lastrucci, Mohlatlego Nakeng, Kayode Olalaye, Thapelo Sindane, Keabetswe Madumo
-
+* Author(s) - Original Multilingual Statistical Terminology -[Statistics South Africs](https://www.statssa.gov.za/?page_id=5917)
+* Author(s) - Original Multilingual Statistical Terminology + _Open Database_: Statistics South Africa, Vukosi Marivate, Fiskani Banda, Keabetswe Madumo
 # LICENSE for Data
 
 The files on [https://github.com/dsfsi/za-mavito](https://github.com/dsfsi/za-mavito) are under [CC-BY-4.0](https://github.com/dsfsi/za-mavito/blob/master/data/statssa/LICENSE) and should acknowledge the Original Multilingual Statistical Terminology + _Open Database_ authors list.
