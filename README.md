@@ -18,10 +18,10 @@ A short description of the project.
 
 ### Included Terminlogy Databases
 
-| Database | Description | Documentation | CSV | JSON | TBX |
-|----------|-------------|---------------|-----|------|-----|
-| OERTB | Open Resource Term Bank (OERTB) project is to support the collaborative development and dissemination of terminological resources, and thereby promoting the use of African languages in teaching and learning at higher education institutions. | TBD | [data/sample/oertb-full.csv](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-full.csv), view on [datasette](https://lite.datasette.io/?csv=https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-full.csv) | [data/oertb/oertb-termbank-IATE.json](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-termbank-IATE.json), view on [datasette](https://lite.datasette.io/?json=https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-termbank-IATE.json) | [data/oertb/oertb-termbank-IATE.tbx](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-termbank-IATE) |
-| StatsSA | The Multilingual Statistical Terminology Project by Stats SA develops statistical terminology in South Africa's 11 official languages to enhance access to vital data for all citizens, ensuring a deeper understanding and connection to the information that affects their lives. | TBD | [CSV link for the second database](#) | [JSON link for the second database](#) | [xlsx link for the second database](#) |
+| Database | Description | Documentation | CSV | JSON | TBX | xlsx |
+|----------|-------------|---------------|-----|------|-----|------|
+| OERTB | Open Resource Term Bank (OERTB) project is to support the collaborative development and dissemination of terminological resources, and thereby promoting the use of African languages in teaching and learning at higher education institutions. | TBD | [data/sample/oertb-full.csv](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-full.csv), view on [datasette](https://lite.datasette.io/?csv=https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-full.csv) | [data/oertb/oertb-termbank-IATE.json](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-termbank-IATE.json), view on [datasette](https://lite.datasette.io/?json=https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-termbank-IATE.json) | [data/oertb/oertb-termbank-IATE.tbx](https://github.com/dsfsi/za-terminology/blob/master/data/oertb/oertb-termbank-IATE) ||
+| StatsSA | The Multilingual Statistical Terminology Project by Stats SA develops statistical terminology in South Africa's 11 official languages to enhance access to vital data for all citizens, ensuring a deeper understanding and connection to the information that affects their lives. | TBD | [CSV link for the second database](#) | [JSON link for the second database](#) ||[xlsx link for the second database](#) |
 
 
 
