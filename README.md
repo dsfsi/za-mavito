@@ -9,12 +9,14 @@ Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms
 1. [Project Description](#project-description) 
 2. [Getting Started](#getting-started)
 3. [Authors](#authors)
-4. [More Information](#more-information)
+4. [Attribution](#attribution)
 
 ## Project Description 
 -----------
 
-A short description of the project.
+The "Mavito: South African Terminology, Lexicon, and Glossary Project" is dedicated to the comprehensive collection, meticulous cleaning, and transformative processing of South African language terminology lists, lexicons, and glossaries. This initiative is an integral part of the broader mission of the Data Science for Social Impact (DSFSI) lab/group, which aims to liberate and openly share as many language resources as possible.
+
+The quality and accuracy of each resource are maintained by the original authors, ensuring the integrity and authenticity of the linguistic data. For any questions or clarifications regarding the content, users are encouraged to directly contact the original authors. By making these linguistic assets readily accessible, the project seeks to enhance language preservation, support linguistic research, and foster educational opportunities across South Africa's diverse linguistic landscap
 
 ### Databases
 
