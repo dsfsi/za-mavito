@@ -60,7 +60,7 @@ For the overall project the citation should be
 	date = {2023},
 	title = {Mavito: South African Terminology, Lexicon and Glossary Project},
 	url = {https://github.com/dsfsi/za-mavito/},
-  author = {Vukosi Marivate and Richard Lastrucci and Thapelo Sindane and Fiskani Banda and Keabetswe Madumo and DSFSI}
+  author = {Vukosi Marivate and Fiskani Banda and Richard Lastrucci and Matome Ledwaba and Keabetswe Madumo and Mohlatlego Nakeng and Kayode Olalaye and Thapelo Sindane and DSFSI}
 }
 ```
 
