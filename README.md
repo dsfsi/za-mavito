@@ -1,4 +1,5 @@
-DSFSI South African Terminlogy Lists and Lexicon Project
+Mavito: South African Terminology, Lexicon and Glossary Project
+
 ==============================
 
 Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse)
@@ -16,7 +17,7 @@ Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms
 
 A short description of the project.
 
-### Included Terminlogy Databases
+### Databases
 
 | Database | Description | Documentation | CSV | JSON | TBX | xlsx |
 |----------|-------------|---------------|-----|------|-----|------|
@@ -47,7 +48,20 @@ _Outside the PI and team lead, all other members are listed alphabetically by su
 
 This is optional and provides information about which  and how each of the developers contributed. 
 
-## More Information 
----------
+## Attribution
 
-Provide any relevant informations about the project. 
+1. We ask you reference individual datasets you are using as well as this project.
+2. For individual datasets, please refer to their READMEs in their  dataset folders. 
+
+For the overall project the citation should be
+
+```
+@dataset{dsfsi-mavito,
+	date = {2023},
+	title = {Mavito: South African Terminology, Lexicon and Glossary Project},
+	url = {https://github.com/dsfsi/za-mavito/},
+  author = {Vukosi Marivate and Richard Lastrucci and Thapelo Sindane and Fiskani Banda and Keabetswe Madumo and DSFSI}
+}
+```
+
+
