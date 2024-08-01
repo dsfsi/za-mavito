@@ -150,3 +150,7 @@ tr:nth-child(even) {
 tr:hover {
   background-color: #f1f1f1;
 }
+
+.description-col {
+  width: 40%; 
+}
