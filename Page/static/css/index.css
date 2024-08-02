@@ -154,3 +154,6 @@ tr:hover {
 .description-col {
   width: 40%; 
 }
+.small-col {
+  width: 10%; 
+}
