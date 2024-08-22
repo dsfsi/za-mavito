@@ -18,6 +18,12 @@ The "Mavito: South African Terminology, Lexicon, and Glossary Project" is dedica
 
 The quality and accuracy of each resource are maintained by the original authors, ensuring the integrity and authenticity of the linguistic data. For any questions or clarifications regarding the content, users are encouraged to directly contact the original authors. By making these linguistic assets readily accessible, the project seeks to enhance language preservation, support linguistic research, and foster educational opportunities across South Africa's diverse linguistic landscape.
 
+### Disclaimer
+
+Each resource is provided on an “as is” basis, without representations, warranties or conditions of any kind, either express or implied including, without limitation, any warranties or conditions of title, non-infringement, merchantability or fitness for a particular purpose. We shall not have any liability for any form or type of damages (including without limitation lost profits), however caused and on any theory of liability, whether in contract, strict liability, or delict (including negligence or otherwise) arising in any way out of any of the resources, even if advised of the possibility of such damages. Likewise, to the full extent permitted by law, we shall not have any liability whatsoever for any mistakes in the source data or for any disputed translations.
+
+Where any user finds technical mistakes or errors in the files, they may submit a request for fixes via Github. 
+
 ### Databases
 
 | Database | Description | Documentation | CSV | JSON | TBX | xlsx |
